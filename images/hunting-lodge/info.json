@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 259,
+    "height" : 92
+  }, {
+    "width" : 517,
+    "height" : 183
+  }, {
+    "width" : 1033,
+    "height" : 366
+  }, {
+    "width" : 2066,
+    "height" : 732
+  }, {
+    "width" : 4131,
+    "height" : 1463
+  }, {
+    "width" : 8262,
+    "height" : 2926
+  } ],
+  "profile" : "level0",
+  "width" : 8262,
+  "id" : "https://elynema.github.io/IIIF-image/images/hunting-lodge",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 2926
+}
